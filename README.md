@@ -1,5 +1,7 @@
 # 🎵 AirSymphony
 
+![AirSymphony Demo](assets/screenshot.png)
+
 AirSymphony is an AI-powered hand gesture controlled music player built using Python.
 
 ## Features
